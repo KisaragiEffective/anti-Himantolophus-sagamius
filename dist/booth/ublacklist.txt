@@ -1,7 +1,8 @@
 # SPDX-License-Identifier: CC0-1.0
-# Generated-Date: 2024-12-29T09:56:52Z
-# Git-Commit: 62ad05edb4cb9b2417a1ee7566ead4f58db16d68
+# Generated-Date: 2025-01-03T07:39:47Z
+# Git-Commit: 9010bfbc5a17af791589befab78abc6160ef6139
 # Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
+*://https://booth.pm/ja/items/6452257
 *://https://booth.pm/ja/items/6432602
 *://https://booth.pm/ja/items/6434412
 *://https://booth.pm/ja/items/6434286
