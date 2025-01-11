@@ -1,13 +1,19 @@
 ! SPDX-License-Identifier: CC0-1.0
-! Generated-Date: 2025-01-11T13:55:58Z
-! Git-Commit: b71dad64030687a1e483b32995d027caea08b8bf
+! Generated-Date: 2025-01-11T14:05:04Z
+! Git-Commit: 06146de5b8a9c63f0969deaddf8d9543f3596745
 ! Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6476713")
 www.google.*##.a[href^="https://booth.pm/ja/items/6476713"]:upward(1)
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6476695")
 www.google.*##.a[href^="https://booth.pm/ja/items/6476695"]:upward(1)
+www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6473961")
+www.google.*##.a[href^="https://booth.pm/ja/items/6473961"]:upward(1)
+www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6472128")
+www.google.*##.a[href^="https://booth.pm/ja/items/6472128"]:upward(1)
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6467950")
 www.google.*##.a[href^="https://booth.pm/ja/items/6467950"]:upward(1)
+www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6465913")
+www.google.*##.a[href^="https://booth.pm/ja/items/6465913"]:upward(1)
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6452257")
 www.google.*##.a[href^="https://booth.pm/ja/items/6452257"]:upward(1)
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6452009")
@@ -100,8 +106,14 @@ www.google.*##.g:has(a[href^="https://nemishop.booth.pm/items/6476713")
 www.google.*##.a[href^="https://nemishop.booth.pm/items/6476713"]:upward(1)
 www.google.*##.g:has(a[href^="https://nemishop.booth.pm/items/6476695")
 www.google.*##.a[href^="https://nemishop.booth.pm/items/6476695"]:upward(1)
+www.google.*##.g:has(a[href^="https://spica-luna.booth.pm/items/6473961")
+www.google.*##.a[href^="https://spica-luna.booth.pm/items/6473961"]:upward(1)
+www.google.*##.g:has(a[href^="https://smos.booth.pm/items/6472128")
+www.google.*##.a[href^="https://smos.booth.pm/items/6472128"]:upward(1)
 www.google.*##.g:has(a[href^="https://shapeshiftercl.booth.pm/items/6467950")
 www.google.*##.a[href^="https://shapeshiftercl.booth.pm/items/6467950"]:upward(1)
+www.google.*##.g:has(a[href^="https://nunnun-seisaku.booth.pm/items/6465913")
+www.google.*##.a[href^="https://nunnun-seisaku.booth.pm/items/6465913"]:upward(1)
 www.google.*##.g:has(a[href^="https://suzu-ya.booth.pm/items/6452257")
 www.google.*##.a[href^="https://suzu-ya.booth.pm/items/6452257"]:upward(1)
 www.google.*##.g:has(a[href^="https://meiu.booth.pm/items/6452009")
