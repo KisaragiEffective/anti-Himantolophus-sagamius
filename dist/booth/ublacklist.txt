@@ -1,6 +1,6 @@
 # SPDX-License-Identifier: CC0-1.0
-# Generated-Date: 2025-01-11T04:39:51Z
-# Git-Commit: 53a09650e57d007268966d76b8424d34e8877c7c
+# Generated-Date: 2025-01-11T13:55:58Z
+# Git-Commit: b71dad64030687a1e483b32995d027caea08b8bf
 # Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
 *://https://booth.pm/ja/items/6476713
 *://https://booth.pm/ja/items/6476695
@@ -49,3 +49,33 @@
 *://https://booth.pm/ja/items/6348348
 *://https://booth.pm/ja/items/6344191
 *://https://booth.pm/ja/items/6344179
+*://https://nemishop.booth.pm/items/6476713
+*://https://nemishop.booth.pm/items/6476695
+*://https://shapeshiftercl.booth.pm/items/6467950
+*://https://suzu-ya.booth.pm/items/6452257
+*://https://meiu.booth.pm/items/6452009
+*://https://bakkerfly.booth.pm/items/6451203
+*://https://agapelove.booth.pm/items/6450429
+*://https://captaincoc.booth.pm/items/6444934
+*://https://jessairartshop.booth.pm/items/6441467
+*://https://shapeshiftercl.booth.pm/items/6439932
+*://https://meiu.booth.pm/items/6439680
+*://https://meiu.booth.pm/items/6439732
+*://https://shapeshiftercl.booth.pm/items/6439518
+*://https://shapeshiftercl.booth.pm/items/6434412
+*://https://suzu-ya.booth.pm/items/6432602
+*://https://shapeshiftercl.booth.pm/items/6429213
+*://https://nunnun-seisaku.booth.pm/items/6426564
+*://https://meiu.booth.pm/items/6425666
+*://https://shapeshiftercl.booth.pm/items/6416893
+*://https://suzu-ya.booth.pm/items/6416261
+*://https://shapeshiftercl.booth.pm/items/6394003
+*://https://shapeshiftercl.booth.pm/items/6390282
+*://https://shapeshiftercl.booth.pm/items/6385677
+*://https://lauras-toy-box.booth.pm/items/6380051
+*://https://unclassics.booth.pm/items/6375077
+*://https://shapeshiftercl.booth.pm/items/6358508
+*://https://shapeshiftercl.booth.pm/items/6358505
+*://https://shapeshiftercl.booth.pm/items/6348348
+*://https://shapeshiftercl.booth.pm/items/6344191
+*://https://shapeshiftercl.booth.pm/items/6344179
