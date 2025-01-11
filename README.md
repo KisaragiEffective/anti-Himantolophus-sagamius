@@ -11,6 +11,7 @@
 ## How to contribute
 
 1. `cargo install --git https://github.com/KisaragiEffective/exclude_entry_compiler/`
-2. `urls.txt` を編集する。`#` から始まる行はコメント。
-3. `./scripts/all.sh` を実行する
-4. make PR
+2. https://github.com/EricChiang/pup をパスが通っているディレクトリに展開
+3. `urls.txt` を編集する。`#` から始まる行はコメント。
+4. `./scripts/all.sh` を実行する
+5. make PR
