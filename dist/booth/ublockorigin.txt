@@ -1,10 +1,13 @@
 ! SPDX-License-Identifier: CC0-1.0
-! Generated-Date: 2025-01-11T13:55:58Z
-! Git-Commit: b71dad64030687a1e483b32995d027caea08b8bf
+! Generated-Date: 2025-01-11T14:05:04Z
+! Git-Commit: 06146de5b8a9c63f0969deaddf8d9543f3596745
 ! Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
 ||https://booth.pm/ja/items/6476713^
 ||https://booth.pm/ja/items/6476695^
+||https://booth.pm/ja/items/6473961^
+||https://booth.pm/ja/items/6472128^
 ||https://booth.pm/ja/items/6467950^
+||https://booth.pm/ja/items/6465913^
 ||https://booth.pm/ja/items/6452257^
 ||https://booth.pm/ja/items/6452009^
 ||https://booth.pm/ja/items/6451261^
@@ -51,7 +54,10 @@
 ||https://booth.pm/ja/items/6344179^
 ||https://nemishop.booth.pm/items/6476713^
 ||https://nemishop.booth.pm/items/6476695^
+||https://spica-luna.booth.pm/items/6473961^
+||https://smos.booth.pm/items/6472128^
 ||https://shapeshiftercl.booth.pm/items/6467950^
+||https://nunnun-seisaku.booth.pm/items/6465913^
 ||https://suzu-ya.booth.pm/items/6452257^
 ||https://meiu.booth.pm/items/6452009^
 ||https://bakkerfly.booth.pm/items/6451203^
