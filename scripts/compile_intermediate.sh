@@ -1,4 +1,7 @@
 #!/bin/bash
 out_dir="$(dirname "$0")/../intermediate"
 
-sed '/^#/d' < "$(dirname "$0")/../urls.txt" | jq -R '{type: "path", match: "literal", path: .}' | jq -s > "$out_dir/intermediate.json"
+cat "$(dirname "$0")/../urls.txt" "$out_dir/urls_by_shopname.txt" \
+| sed '/^#/d' \
+| jq -R '{type: "path", match: "literal", path: .}' \
+| jq -s > "$out_dir/intermediate.json"
