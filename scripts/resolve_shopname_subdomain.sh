@@ -2,7 +2,7 @@
 out_dir="$(dirname "$0")/../intermediate"
 target="$out_dir/urls_by_shopname.txt"
 rm "$target" 2>/dev/null || true
-echo '# AUTO GENERATED: URLs by shop subdomain'
+echo '# AUTO GENERATED: URLs by shop subdomain' > "$target"
 
 sed '/^#/d' < "$(dirname "$0")/../urls.txt" | while IFS= read -r url; do
   item_number="$(echo "$url" | awk -F/ '{print $NF}')"
