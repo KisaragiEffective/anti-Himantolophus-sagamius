@@ -1,6 +1,20 @@
 # AUTO GENERATED: URLs by shop subdomain
+https://yuyu-store.booth.pm/items/6550492
+https://a01koromo.booth.pm/items/6549817
+https://a01koromo.booth.pm/items/6549781
+https://sakusaku-midori.booth.pm/items/6548292
+https://snaggy.booth.pm/items/6546170
+https://neltos-store.booth.pm/items/6544047
+https://yoki1004.booth.pm/items/6543667
+https://yueby.booth.pm/items/6537965
+https://tw-kanaria0637.booth.pm/items/6529900
+https://bloom-pink.booth.pm/items/6525241
+https://revan.booth.pm/items/6500671
+https://angeltext.booth.pm/items/6492233
+https://shapeshiftercl.booth.pm/items/6481538
 https://nemishop.booth.pm/items/6476713
 https://nemishop.booth.pm/items/6476695
+https://bakkerfly.booth.pm/items/6475976
 https://spica-luna.booth.pm/items/6473961
 https://smos.booth.pm/items/6472128
 https://shapeshiftercl.booth.pm/items/6467950
@@ -9,6 +23,7 @@ https://suzu-ya.booth.pm/items/6452257
 https://meiu.booth.pm/items/6452009
 https://bakkerfly.booth.pm/items/6451203
 https://agapelove.booth.pm/items/6450429
+https://yoki1004.booth.pm/items/6446355
 https://captaincoc.booth.pm/items/6444934
 https://jessairartshop.booth.pm/items/6441467
 https://shapeshiftercl.booth.pm/items/6439932
@@ -27,8 +42,10 @@ https://shapeshiftercl.booth.pm/items/6390282
 https://shapeshiftercl.booth.pm/items/6385677
 https://lauras-toy-box.booth.pm/items/6380051
 https://unclassics.booth.pm/items/6375077
+https://buchi-std.booth.pm/items/6372303
 https://shapeshiftercl.booth.pm/items/6358508
 https://shapeshiftercl.booth.pm/items/6358505
 https://shapeshiftercl.booth.pm/items/6348348
 https://shapeshiftercl.booth.pm/items/6344191
 https://shapeshiftercl.booth.pm/items/6344179
+https://buchi-std.booth.pm/items/6280534

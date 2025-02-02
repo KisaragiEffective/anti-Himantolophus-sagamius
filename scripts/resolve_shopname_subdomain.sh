@@ -18,15 +18,21 @@ if [[ -z "$NO_CACHE" && -f "$cache_file" && "$actual_hash" == "$cached_hash" ]];
 fi
 
 echo '# AUTO GENERATED: URLs by shop subdomain' > "$target"
+tmp="$(mktemp)"
+
 while IFS= read -r url; do
   item_number="$(echo "$url" | awk -F/ '{print $NF}')"
   echo "process: $url -> $item_number"
+
   curl -H 'User-Agent: KisaragiEffective/anti-himantolophus-sagamius/1.0' "$url" \
   | pup 'a[data-product-list*=shop_index] attr{href}' \
   | uniq \
-  | awk -v num="$item_number" '{ print $0 "items/" num }' >> "$target"
+  | awk -v num="$item_number" '{ print $0 "items/" num }' >> "$tmp"
 # readコマンドの直後に出力リダイレクトを置くと死ぬ。知るかよ！
 done < "$effective_declaration_file"
+
+uniq < "$tmp" >> "$target"
+rm "$tmp"
 
 {
   echo '# AUTO-GENERATED. DO NOT MODIFY THIS HASH.'
