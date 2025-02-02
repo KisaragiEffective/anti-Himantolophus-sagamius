@@ -1,9 +1,24 @@
 # SPDX-License-Identifier: CC0-1.0
-# Generated-Date: 2025-01-11T14:05:04Z
-# Git-Commit: 06146de5b8a9c63f0969deaddf8d9543f3596745
+# Generated-Date: 2025-02-02T09:36:08Z
+# Git-Commit: 0a3a52917d22e99989f11e67014acac1e045b1e5
 # Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
+*://https://booth.pm/ja/items/6550492
+*://https://booth.pm/ja/items/6549817
+*://https://booth.pm/ja/items/6549781
+*://https://booth.pm/ja/items/6548292
+*://https://booth.pm/ja/items/6546170
+*://https://booth.pm/ja/items/6544047
+*://https://booth.pm/ja/items/6543667
+*://https://booth.pm/ja/items/6537965
+*://https://booth.pm/ja/items/6529900
+*://https://booth.pm/ja/items/6529558
+*://https://booth.pm/ja/items/6525241
+*://https://booth.pm/ja/items/6500671
+*://https://booth.pm/ja/items/6492233
+*://https://booth.pm/ja/items/6481538
 *://https://booth.pm/ja/items/6476713
 *://https://booth.pm/ja/items/6476695
+*://https://booth.pm/ja/items/6475976
 *://https://booth.pm/ja/items/6473961
 *://https://booth.pm/ja/items/6472128
 *://https://booth.pm/ja/items/6467950
@@ -15,6 +30,7 @@
 *://https://booth.pm/ja/items/6450429
 *://https://booth.pm/ja/items/6450305
 *://https://booth.pm/ja/items/6446359
+*://https://booth.pm/ja/items/6446355
 *://https://booth.pm/ja/items/6444934
 *://https://booth.pm/ja/items/6441467
 *://https://booth.pm/ja/items/6439932
@@ -46,14 +62,30 @@
 *://https://booth.pm/ja/items/6385677
 *://https://booth.pm/ja/items/6380051
 *://https://booth.pm/ja/items/6375077
+*://https://booth.pm/ja/items/6372303
 *://https://booth.pm/ja/items/6358651
 *://https://booth.pm/ja/items/6358508
 *://https://booth.pm/ja/items/6358505
 *://https://booth.pm/ja/items/6348348
 *://https://booth.pm/ja/items/6344191
 *://https://booth.pm/ja/items/6344179
+*://https://booth.pm/ja/items/6280534
+*://https://yuyu-store.booth.pm/items/6550492
+*://https://a01koromo.booth.pm/items/6549817
+*://https://a01koromo.booth.pm/items/6549781
+*://https://sakusaku-midori.booth.pm/items/6548292
+*://https://snaggy.booth.pm/items/6546170
+*://https://neltos-store.booth.pm/items/6544047
+*://https://yoki1004.booth.pm/items/6543667
+*://https://yueby.booth.pm/items/6537965
+*://https://tw-kanaria0637.booth.pm/items/6529900
+*://https://bloom-pink.booth.pm/items/6525241
+*://https://revan.booth.pm/items/6500671
+*://https://angeltext.booth.pm/items/6492233
+*://https://shapeshiftercl.booth.pm/items/6481538
 *://https://nemishop.booth.pm/items/6476713
 *://https://nemishop.booth.pm/items/6476695
+*://https://bakkerfly.booth.pm/items/6475976
 *://https://spica-luna.booth.pm/items/6473961
 *://https://smos.booth.pm/items/6472128
 *://https://shapeshiftercl.booth.pm/items/6467950
@@ -62,6 +94,7 @@
 *://https://meiu.booth.pm/items/6452009
 *://https://bakkerfly.booth.pm/items/6451203
 *://https://agapelove.booth.pm/items/6450429
+*://https://yoki1004.booth.pm/items/6446355
 *://https://captaincoc.booth.pm/items/6444934
 *://https://jessairartshop.booth.pm/items/6441467
 *://https://shapeshiftercl.booth.pm/items/6439932
@@ -80,8 +113,10 @@
 *://https://shapeshiftercl.booth.pm/items/6385677
 *://https://lauras-toy-box.booth.pm/items/6380051
 *://https://unclassics.booth.pm/items/6375077
+*://https://buchi-std.booth.pm/items/6372303
 *://https://shapeshiftercl.booth.pm/items/6358508
 *://https://shapeshiftercl.booth.pm/items/6358505
 *://https://shapeshiftercl.booth.pm/items/6348348
 *://https://shapeshiftercl.booth.pm/items/6344191
 *://https://shapeshiftercl.booth.pm/items/6344179
+*://https://buchi-std.booth.pm/items/6280534
