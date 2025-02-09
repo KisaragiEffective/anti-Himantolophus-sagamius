@@ -1,3 +1,6 @@
+https://booth.pm/ja/items/6563656
+https://booth.pm/ja/items/6561157
+https://booth.pm/ja/items/6557799
 https://booth.pm/ja/items/6550492
 https://booth.pm/ja/items/6549817
 https://booth.pm/ja/items/6549781
@@ -6,6 +9,9 @@ https://booth.pm/ja/items/6546170
 https://booth.pm/ja/items/6544047
 https://booth.pm/ja/items/6543667
 https://booth.pm/ja/items/6537965
+# パスワード付きZIP
+https://booth.pm/ja/items/6537546
+https://booth.pm/ja/items/6553721
 https://booth.pm/ja/items/6529900
 https://booth.pm/ja/items/6529558
 https://booth.pm/ja/items/6525241
