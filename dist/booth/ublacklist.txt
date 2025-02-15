@@ -1,7 +1,14 @@
 # SPDX-License-Identifier: CC0-1.0
-# Generated-Date: 2025-02-11T08:33:00Z
-# Git-Commit: fdfe487ecef06916167a1e5e9f9b518d6bccb25e
+# Generated-Date: 2025-02-15T05:27:29Z
+# Git-Commit: cf3231ebb67f965d0a310df4f342646903b51202
 # Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
+*://https://booth.pm/ja/items/6599839
+*://https://booth.pm/ja/items/6595526
+*://https://booth.pm/ja/items/6595516
+*://https://booth.pm/ja/items/6594519
+*://https://booth.pm/ja/items/6590749
+*://https://booth.pm/ja/items/6590737
+*://https://booth.pm/ja/items/6585028
 *://https://booth.pm/ja/items/6584575
 *://https://booth.pm/ja/items/6573815
 *://https://booth.pm/ja/items/6573171
@@ -81,6 +88,13 @@
 *://https://booth.pm/ja/items/6344191
 *://https://booth.pm/ja/items/6344179
 *://https://booth.pm/ja/items/6280534
+*://https://binah-ambrose.booth.pm/items/6599839
+*://https://shapeshiftercl.booth.pm/items/6595526
+*://https://shapeshiftercl.booth.pm/items/6595516
+*://https://adameve.booth.pm/items/6594519
+*://https://shapeshiftercl.booth.pm/items/6590749
+*://https://shapeshiftercl.booth.pm/items/6590737
+*://https://agapelove.booth.pm/items/6585028
 *://https://yoki1004.booth.pm/items/6584575
 *://https://shapeshiftercl.booth.pm/items/6573815
 *://https://tw-kanaria0637.booth.pm/items/6573171
