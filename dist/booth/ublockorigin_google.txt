@@ -1,6 +1,6 @@
 ! SPDX-License-Identifier: CC0-1.0
-! Generated-Date: 2025-02-15T05:27:29Z
-! Git-Commit: cf3231ebb67f965d0a310df4f342646903b51202
+! Generated-Date: 2025-02-15T05:30:04Z
+! Git-Commit: c375d90106123b40db06bf3e47d3efe7f6204fd5
 ! Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6599839")
 www.google.*##.a[href^="https://booth.pm/ja/items/6599839"]:upward(1)
@@ -14,6 +14,8 @@ www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6590749")
 www.google.*##.a[href^="https://booth.pm/ja/items/6590749"]:upward(1)
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6590737")
 www.google.*##.a[href^="https://booth.pm/ja/items/6590737"]:upward(1)
+www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6590701")
+www.google.*##.a[href^="https://booth.pm/ja/items/6590701"]:upward(1)
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6585028")
 www.google.*##.a[href^="https://booth.pm/ja/items/6585028"]:upward(1)
 www.google.*##.g:has(a[href^="https://booth.pm/ja/items/6584575")
@@ -186,6 +188,8 @@ www.google.*##.g:has(a[href^="https://shapeshiftercl.booth.pm/items/6590749")
 www.google.*##.a[href^="https://shapeshiftercl.booth.pm/items/6590749"]:upward(1)
 www.google.*##.g:has(a[href^="https://shapeshiftercl.booth.pm/items/6590737")
 www.google.*##.a[href^="https://shapeshiftercl.booth.pm/items/6590737"]:upward(1)
+www.google.*##.g:has(a[href^="https://nunnun-seisaku.booth.pm/items/6590701")
+www.google.*##.a[href^="https://nunnun-seisaku.booth.pm/items/6590701"]:upward(1)
 www.google.*##.g:has(a[href^="https://agapelove.booth.pm/items/6585028")
 www.google.*##.a[href^="https://agapelove.booth.pm/items/6585028"]:upward(1)
 www.google.*##.g:has(a[href^="https://yoki1004.booth.pm/items/6584575")
