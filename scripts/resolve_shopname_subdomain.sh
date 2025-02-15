@@ -44,9 +44,8 @@ while IFS= read -r url; do
       | pup 'a[data-product-list*=shop_index] attr{href}' \
       | uniq \
       | awk -v num="$item_number" '{ print $0 "items/" num }' >> "$new_target_appending_buffer"
+    sleep 0.5
   fi
-
-  sleep 0.5
 # readコマンドの直後に出力リダイレクトを置くと死ぬ。知るかよ！
 done < "$effective_declaration_file"
 
