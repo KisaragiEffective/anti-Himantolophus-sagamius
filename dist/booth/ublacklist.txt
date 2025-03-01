@@ -1,7 +1,17 @@
 # SPDX-License-Identifier: CC0-1.0
-# Generated-Date: 2025-02-15T05:30:04Z
-# Git-Commit: c375d90106123b40db06bf3e47d3efe7f6204fd5
+# Generated-Date: 2025-03-01T08:59:56Z
+# Git-Commit: a04141be49a9a1be05911f215715c444db8da1ae
 # Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
+*://https://booth.pm/ja/items/6647444
+*://https://booth.pm/ja/items/6642026
+*://https://booth.pm/ja/items/6641431
+*://https://booth.pm/ja/items/6639898
+*://https://booth.pm/ja/items/6638969
+*://https://booth.pm/ja/items/6632594
+*://https://booth.pm/ja/items/6619749
+*://https://booth.pm/ja/items/6618919
+*://https://booth.pm/ja/items/6616138
+*://https://booth.pm/ja/items/6615469
 *://https://booth.pm/ja/items/6599839
 *://https://booth.pm/ja/items/6595526
 *://https://booth.pm/ja/items/6595516
@@ -89,6 +99,16 @@
 *://https://booth.pm/ja/items/6344191
 *://https://booth.pm/ja/items/6344179
 *://https://booth.pm/ja/items/6280534
+*://https://shapeshiftercl.booth.pm/items/6647444
+*://https://mariyuri.booth.pm/items/6642026
+*://https://mellia.booth.pm/items/6641431
+*://https://shapeshiftercl.booth.pm/items/6639898
+*://https://lielsshop.booth.pm/items/6638969
+*://https://lielsshop.booth.pm/items/6632594
+*://https://distributor.booth.pm/items/6619749
+*://https://neltos-store.booth.pm/items/6618919
+*://https://mangmeng.booth.pm/items/6616138
+*://https://distributor.booth.pm/items/6615469
 *://https://binah-ambrose.booth.pm/items/6599839
 *://https://shapeshiftercl.booth.pm/items/6595526
 *://https://shapeshiftercl.booth.pm/items/6595516
