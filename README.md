@@ -19,3 +19,6 @@
 ## How to file report
 
 Go to https://github.com/KisaragiEffective/anti-Himantolophus-sagamius/issues/new
+
+## ライセンス
+CC0-1.0
