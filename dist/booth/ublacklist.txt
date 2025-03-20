@@ -1,7 +1,21 @@
 # SPDX-License-Identifier: CC0-1.0
-# Generated-Date: 2025-03-01T09:10:13Z
-# Git-Commit: 0ebcbcb1465aae6872c4e531307cdc7fe4cc111f
+# Generated-Date: 2025-03-20T08:43:08Z
+# Git-Commit: 27ecc5892a8de04b943e8f6cf3b4a3240913a231
 # Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
+*://https://booth.pm/ja/items/6715005
+*://https://booth.pm/ja/items/6711989
+*://https://booth.pm/ja/items/6710885
+*://https://booth.pm/ja/items/6710268
+*://https://booth.pm/ja/items/6709125
+*://https://booth.pm/ja/items/6703414
+*://https://booth.pm/ja/items/6702943
+*://https://booth.pm/ja/items/6701900
+*://https://booth.pm/ja/items/6698144
+*://https://booth.pm/ja/items/6689047
+*://https://booth.pm/ja/items/6689042
+*://https://booth.pm/ja/items/6687187
+*://https://booth.pm/ja/items/6654688
+*://https://booth.pm/ja/items/6585028
 *://https://booth.pm/ja/items/6647444
 *://https://booth.pm/ja/items/6642026
 *://https://booth.pm/ja/items/6641431
@@ -100,6 +114,19 @@
 *://https://booth.pm/ja/items/6344191
 *://https://booth.pm/ja/items/6344179
 *://https://booth.pm/ja/items/6280534
+*://https://seodea.booth.pm/items/6715005
+*://https://captaincoc.booth.pm/items/6711989
+*://https://lielsshop.booth.pm/items/6710885
+*://https://missdaydreamer.booth.pm/items/6710268
+*://https://thevoid.booth.pm/items/6709125
+*://https://rytshop.booth.pm/items/6703414
+*://https://monghaus.booth.pm/items/6702943
+*://https://lielsshop.booth.pm/items/6701900
+*://https://midnight-bearly.booth.pm/items/6698144
+*://https://sourflavor.booth.pm/items/6689047
+*://https://amaisoda.booth.pm/items/6689042
+*://https://shapeshiftercl.booth.pm/items/6687187
+*://https://agapelove.booth.pm/items/6585028
 *://https://shapeshiftercl.booth.pm/items/6647444
 *://https://mariyuri.booth.pm/items/6642026
 *://https://mellia.booth.pm/items/6641431
