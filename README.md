@@ -8,6 +8,30 @@
 
 当てはまらなくなった場合は削除されることもあり得る。
 
+## インストール
+
+### uBlock Origin
+BOOTHの検索結果から消したい場合はこちらがおすすめです。
+
+1. ブラウザにuBlock Originをインストールする
+2. 拡張機能のアイコンをクリックしてダッシュボードを開く
+3. タブリストから「マイフィルター」を選択する
+4. 「マイカスタムフィルターを有効化」にチェックする
+5. 指定のURLを入力する
+
+* https://raw.githubusercontent.com/KisaragiEffective/anti-Himantolophus-sagamius/refs/heads/live/dist/booth/ublockorigin_booth_search.txt
+
+### uBlacklist
+Googleの検索結果から消したい場合はこちらがおすすめです。
+
+https://dev.classmethod.jp/articles/deny-devio-using-ublacklist/
+
+を見てください。指定URLは
+
+* https://github.com/KisaragiEffective/anti-Himantolophus-sagamius/blob/live/dist/booth/ublacklist.txt
+
+です。
+
 ## How to edit listing
 
 1. `cargo install --git https://github.com/KisaragiEffective/exclude_entry_compiler/`
