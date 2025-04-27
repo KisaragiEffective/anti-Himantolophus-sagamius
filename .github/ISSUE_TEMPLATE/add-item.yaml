@@ -2,6 +2,7 @@ name: 'Add item (preview)'
 description: 'Help us to improve the listing'
 title: 'New item'
 labels: ['needs investigate']
+body:
 - type: textarea
   attributes:
     label: BoothのURL
