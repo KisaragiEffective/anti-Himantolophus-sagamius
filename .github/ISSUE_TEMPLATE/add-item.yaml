@@ -8,12 +8,11 @@ body:
     label: BoothのURL
     description: BoothのURLを記入してください。
     options:
-    - label: "魚拓サイトのURLを記入します"
-      required: true
+  validations:  
+    required: true
 - type: textarea
   attributes:
     label: 魚拓サイトのURL
     description: gyo.tc など、対象のページをキャプチャした魚拓サイトへのURLを記入してください。
-    options:
-    - label: "魚拓サイトのURLを記入します"
-      required: true
+  validations:
+    required: true
