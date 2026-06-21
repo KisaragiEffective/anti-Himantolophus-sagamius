@@ -1,6 +1,6 @@
 ! SPDX-License-Identifier: CC0-1.0
-! Generated-Date: 2025-03-20T09:33:12Z
-! Git-Commit: ec97e16b31ec67cb7f2f1d4f9594591f7efd6497
+! Generated-Date: 2026-06-21T06:30:08Z
+! Git-Commit: 39a0aa648d3196f484c13868be62e8718f0be6fc
 ! Git-Repository: https://github.com/KisaragiEffective/anti-Himantolophus-sagamius
 ||https://booth.pm/ja/items/6715005^
 ||https://booth.pm/ja/items/6714762^
@@ -120,6 +120,52 @@
 ||https://booth.pm/ja/items/6344191^
 ||https://booth.pm/ja/items/6344179^
 ||https://booth.pm/ja/items/6280534^
+||https://booth.pm/ja/items/8524989^
+||https://booth.pm/ja/items/8524762^
+||https://booth.pm/ja/items/8523822^
+||https://booth.pm/ja/items/8521776^
+||https://booth.pm/ja/items/8521350^
+||https://booth.pm/ja/items/8514975^
+||https://booth.pm/ja/items/8512818^
+||https://booth.pm/ja/items/8510171^
+||https://booth.pm/ja/items/8508201^
+||https://booth.pm/ja/items/8491926^
+||https://booth.pm/ja/items/8487260^
+||https://booth.pm/ja/items/8485527^
+||https://booth.pm/ja/items/8476230^
+||https://booth.pm/ja/items/8471789^
+||https://booth.pm/ja/items/8435050^
+||https://booth.pm/ja/items/8429893^
+||https://booth.pm/ja/items/8404976^
+||https://booth.pm/ja/items/8417366^
+||https://booth.pm/ja/items/8368845^
+||https://booth.pm/ja/items/8359390^
+||https://booth.pm/ja/items/8355638^
+||https://booth.pm/ja/items/8261641^
+||https://booth.pm/ja/items/8137355^
+||https://booth.pm/ja/items/8113022^
+||https://booth.pm/ja/items/7968692^
+||https://booth.pm/ja/items/8073807^
+||https://booth.pm/ja/items/7993195^
+||https://booth.pm/ja/items/7885301^
+||https://booth.pm/ja/items/7880710^
+||https://booth.pm/ja/items/7822088^
+||https://booth.pm/ja/items/7800275^
+||https://booth.pm/ja/items/7731789^
+||https://booth.pm/ja/items/7654631^
+||https://booth.pm/ja/items/8091353^
+||https://booth.pm/ja/items/6558483^
+||https://booth.pm/ja/items/6956582^
+||https://booth.pm/ja/items/7237201^
+||https://booth.pm/ja/items/7297816^
+||https://booth.pm/ja/items/7583851^
+||https://booth.pm/ja/items/8002859^
+||https://booth.pm/ja/items/8147234^
+||https://tailshop.booth.pm/items/6921535^
+||https://riceworks.booth.pm/items/6935969^
+||https://booth.pm/ja/items/6838278^
+||https://booth.pm/ja/items/6799546^
+||https://booth.pm/ja/items/6829843^
 ||https://seodea.booth.pm/items/6715005^
 ||https://captaincoc.booth.pm/items/6714762^
 ||https://captaincoc.booth.pm/items/6711989^
